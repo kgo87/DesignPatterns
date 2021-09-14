@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Strategy/FlyWithWings.cs">
+    <Files>
+      <File FileName="Strategy/MyClass.cs" Line="21" Column="30" />
+      <File FileName="Strategy/FlyBehavior.cs" Line="6" Column="9" />
+      <File FileName="Strategy/QuackBehavior.cs" Line="6" Column="26" />
+      <File FileName="Strategy/FlyWithWings.cs" Line="4" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DesignPatterns" expanded="True">
+            <Node name="Strategy" expanded="True">
+              <Node name="FlyWithWings.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Strategy FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
