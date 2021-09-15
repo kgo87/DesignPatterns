@@ -1,17 +1,19 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Strategy/FlyWithWings.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Strategy/MallardDuck.cs">
     <Files>
-      <File FileName="Strategy/MyClass.cs" Line="21" Column="30" />
+      <File FileName="Strategy/FlyNoWay.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="Strategy/MyClass.cs" Line="6" Column="27" />
       <File FileName="Strategy/FlyBehavior.cs" Line="6" Column="9" />
-      <File FileName="Strategy/QuackBehavior.cs" Line="6" Column="26" />
-      <File FileName="Strategy/FlyWithWings.cs" Line="4" Column="42" />
+      <File FileName="Strategy/QuackBehavior.cs" Line="4" Column="35" />
+      <File FileName="Strategy/FlyWithWings.cs" Line="14" Column="49" />
+      <File FileName="Strategy/MallardDuck.cs" Line="6" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPatterns" expanded="True">
             <Node name="Strategy" expanded="True">
-              <Node name="FlyWithWings.cs" selected="True" />
+              <Node name="MallardDuck.cs" selected="True" />
             </Node>
           </Node>
         </State>

@@ -35,6 +35,11 @@
     <Compile Include="FlyBehavior.cs" />
     <Compile Include="QuackBehavior.cs" />
     <Compile Include="FlyWithWings.cs" />
+    <Compile Include="FlyNoWay.cs" />
+    <Compile Include="Quack.cs" />
+    <Compile Include="Squeak.cs" />
+    <Compile Include="MuteQuack.cs" />
+    <Compile Include="MallardDuck.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
