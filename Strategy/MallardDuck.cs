@@ -21,10 +21,5 @@ namespace Strategy
             }
             
         }
-
-        public void quack()
-        {
-            throw new NotImplementedException();
-        }
     }
 }

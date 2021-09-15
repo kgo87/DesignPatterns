@@ -6,21 +6,23 @@
       <File FileName="Strategy/FlyBehavior.cs" Line="6" Column="9" />
       <File FileName="Strategy/QuackBehavior.cs" Line="4" Column="35" />
       <File FileName="Strategy/FlyWithWings.cs" Line="14" Column="49" />
-      <File FileName="Strategy/MallardDuck.cs" Line="6" Column="28" />
+      <File FileName="Strategy/MallardDuck.cs" Line="9" Column="53" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPatterns" expanded="True">
-            <Node name="Strategy" expanded="True">
-              <Node name="MallardDuck.cs" selected="True" />
-            </Node>
+            <Node name="DuckSimulator" selected="True" />
+            <Node name="Strategy" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>DuckSimulator/DuckSimulator.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Strategy FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

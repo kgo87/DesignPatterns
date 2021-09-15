@@ -40,6 +40,7 @@
     <Compile Include="Squeak.cs" />
     <Compile Include="MuteQuack.cs" />
     <Compile Include="MallardDuck.cs" />
+    <Compile Include="Program.cs" Condition=" '$(EnableDefaultCompileItems)' == 'true' " />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
