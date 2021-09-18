@@ -1,18 +1,21 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Strategy/MallardDuck.cs">
+﻿<Properties StartupConfiguration="{C66B4067-BE2C-4669-9A9F-4C8011FAE84C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Observer/CurrentConditionsDisplay.cs">
     <Files>
-      <File FileName="Strategy/FlyNoWay.cs" Line="1" Column="1" IsPinned="True" />
-      <File FileName="Strategy/MyClass.cs" Line="6" Column="27" />
-      <File FileName="Strategy/FlyBehavior.cs" Line="6" Column="9" />
-      <File FileName="Strategy/QuackBehavior.cs" Line="4" Column="35" />
-      <File FileName="Strategy/FlyWithWings.cs" Line="14" Column="49" />
-      <File FileName="Strategy/MallardDuck.cs" Line="9" Column="53" />
+      <File FileName="Strategy/QuackBehavior.cs" />
+      <File FileName="Observer/Program.cs" Line="14" Column="51" />
+      <File FileName="Observer/Subject.cs" Line="8" Column="36" />
+      <File FileName="Observer/Observer.cs" Line="6" Column="72" />
+      <File FileName="Observer/DisplayElement.cs" Line="6" Column="31" />
+      <File FileName="Observer/WeatherData.cs" Line="69" Column="35" />
+      <File FileName="Observer/CurrentConditionsDisplay.cs" Line="4" Column="47" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPatterns" expanded="True">
-            <Node name="DuckSimulator" selected="True" />
+            <Node name="Observer" expanded="True">
+              <Node name="CurrentConditionsDisplay.cs" selected="True" />
+            </Node>
             <Node name="Strategy" expanded="True" />
           </Node>
         </State>
@@ -29,4 +32,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Observer FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
