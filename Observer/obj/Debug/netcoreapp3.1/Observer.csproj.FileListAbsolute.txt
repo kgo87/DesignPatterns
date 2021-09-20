@@ -1,0 +1,13 @@
+/Users/katerinagomozova/Projects/DesignPatterns/Observer/bin/Debug/netcoreapp3.1/Observer.deps.json
+/Users/katerinagomozova/Projects/DesignPatterns/Observer/bin/Debug/netcoreapp3.1/Observer.runtimeconfig.json
+/Users/katerinagomozova/Projects/DesignPatterns/Observer/bin/Debug/netcoreapp3.1/Observer.runtimeconfig.dev.json
+/Users/katerinagomozova/Projects/DesignPatterns/Observer/bin/Debug/netcoreapp3.1/Observer.dll
+/Users/katerinagomozova/Projects/DesignPatterns/Observer/bin/Debug/netcoreapp3.1/Observer.pdb
+/Users/katerinagomozova/Projects/DesignPatterns/Observer/obj/Debug/netcoreapp3.1/Observer.csproj.AssemblyReference.cache
+/Users/katerinagomozova/Projects/DesignPatterns/Observer/obj/Debug/netcoreapp3.1/Observer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinagomozova/Projects/DesignPatterns/Observer/obj/Debug/netcoreapp3.1/Observer.AssemblyInfoInputs.cache
+/Users/katerinagomozova/Projects/DesignPatterns/Observer/obj/Debug/netcoreapp3.1/Observer.AssemblyInfo.cs
+/Users/katerinagomozova/Projects/DesignPatterns/Observer/obj/Debug/netcoreapp3.1/Observer.csproj.CoreCompileInputs.cache
+/Users/katerinagomozova/Projects/DesignPatterns/Observer/obj/Debug/netcoreapp3.1/Observer.dll
+/Users/katerinagomozova/Projects/DesignPatterns/Observer/obj/Debug/netcoreapp3.1/Observer.pdb
+/Users/katerinagomozova/Projects/DesignPatterns/Observer/obj/Debug/netcoreapp3.1/Observer.genruntimeconfig.cache

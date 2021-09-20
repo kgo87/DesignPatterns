@@ -1,25 +1,24 @@
 ﻿using System;
 namespace Strategy
 {
-    public class MallardDuck: Duck
+    public class RubberDuck: Duck
     {
-        public MallardDuck()
+        public RubberDuck()
         {
-            QuackBehavior quackBeh = new Quack();
-            FlyBehavior flyBeh = new FlyNoWay();
+            QuackBehavior quackBeh = new Squeak();
+            FlyBehavior flyBeh = new FlyWithWings();
         }
-
         public override void display()
         {
             try
             {
-                Console.WriteLine("I'm a Mallard Duck");
+                Console.WriteLine("I'm a Rubber Duck");
             }
             catch
             {
                 throw new NotImplementedException();
             }
-            
+
         }
     }
 }

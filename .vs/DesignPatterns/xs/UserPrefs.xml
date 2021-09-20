@@ -1,20 +1,18 @@
 ﻿<Properties StartupConfiguration="{C66B4067-BE2C-4669-9A9F-4C8011FAE84C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Observer/CurrentConditionsDisplay.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Observer/Program.cs">
     <Files>
-      <File FileName="Strategy/QuackBehavior.cs" />
-      <File FileName="Observer/Program.cs" Line="14" Column="51" />
+      <File FileName="Observer/Program.cs" Line="14" Column="83" />
       <File FileName="Observer/Subject.cs" Line="8" Column="36" />
-      <File FileName="Observer/Observer.cs" Line="6" Column="72" />
-      <File FileName="Observer/DisplayElement.cs" Line="6" Column="31" />
       <File FileName="Observer/WeatherData.cs" Line="69" Column="35" />
-      <File FileName="Observer/CurrentConditionsDisplay.cs" Line="4" Column="47" />
+      <File FileName="Observer/CurrentConditionsDisplay.cs" Line="13" Column="1" />
+      <File FileName="Observer/StatisticsDisplay.cs" Line="14" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPatterns" expanded="True">
             <Node name="Observer" expanded="True">
-              <Node name="CurrentConditionsDisplay.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
             <Node name="Strategy" expanded="True" />
           </Node>
@@ -32,5 +30,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Observer FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Observer PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

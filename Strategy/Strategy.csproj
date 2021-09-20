@@ -41,6 +41,8 @@
     <Compile Include="MuteQuack.cs" />
     <Compile Include="MallardDuck.cs" />
     <Compile Include="Program.cs" Condition=" '$(EnableDefaultCompileItems)' == 'true' " />
+    <Compile Include="ModelDuck.cs" />
+    <Compile Include="RubberDuck.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,9 +1,9 @@
 ﻿using System;
 namespace Strategy
 {
-    public class MallardDuck: Duck
+    public class ModelDuck: Duck
     {
-        public MallardDuck()
+        public ModelDuck()
         {
             QuackBehavior quackBeh = new Quack();
             FlyBehavior flyBeh = new FlyNoWay();
@@ -13,13 +13,12 @@ namespace Strategy
         {
             try
             {
-                Console.WriteLine("I'm a Mallard Duck");
+                Console.WriteLine("I'm a Model Duck");
             }
             catch
             {
                 throw new NotImplementedException();
             }
-            
         }
     }
 }
