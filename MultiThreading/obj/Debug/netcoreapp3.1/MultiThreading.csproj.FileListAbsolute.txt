@@ -1,0 +1,13 @@
+/Users/katerinagomozova/Projects/DesignPatterns/MultiThreading/bin/Debug/netcoreapp3.1/MultiThreading.deps.json
+/Users/katerinagomozova/Projects/DesignPatterns/MultiThreading/bin/Debug/netcoreapp3.1/MultiThreading.runtimeconfig.json
+/Users/katerinagomozova/Projects/DesignPatterns/MultiThreading/bin/Debug/netcoreapp3.1/MultiThreading.runtimeconfig.dev.json
+/Users/katerinagomozova/Projects/DesignPatterns/MultiThreading/bin/Debug/netcoreapp3.1/MultiThreading.dll
+/Users/katerinagomozova/Projects/DesignPatterns/MultiThreading/bin/Debug/netcoreapp3.1/MultiThreading.pdb
+/Users/katerinagomozova/Projects/DesignPatterns/MultiThreading/obj/Debug/netcoreapp3.1/MultiThreading.csproj.AssemblyReference.cache
+/Users/katerinagomozova/Projects/DesignPatterns/MultiThreading/obj/Debug/netcoreapp3.1/MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinagomozova/Projects/DesignPatterns/MultiThreading/obj/Debug/netcoreapp3.1/MultiThreading.AssemblyInfoInputs.cache
+/Users/katerinagomozova/Projects/DesignPatterns/MultiThreading/obj/Debug/netcoreapp3.1/MultiThreading.AssemblyInfo.cs
+/Users/katerinagomozova/Projects/DesignPatterns/MultiThreading/obj/Debug/netcoreapp3.1/MultiThreading.csproj.CoreCompileInputs.cache
+/Users/katerinagomozova/Projects/DesignPatterns/MultiThreading/obj/Debug/netcoreapp3.1/MultiThreading.dll
+/Users/katerinagomozova/Projects/DesignPatterns/MultiThreading/obj/Debug/netcoreapp3.1/MultiThreading.pdb
+/Users/katerinagomozova/Projects/DesignPatterns/MultiThreading/obj/Debug/netcoreapp3.1/MultiThreading.genruntimeconfig.cache

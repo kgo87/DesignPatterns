@@ -1,5 +1,6 @@
 ﻿<Properties StartupConfiguration="{C66B4067-BE2C-4669-9A9F-4C8011FAE84C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Factory/SimpleFactory/Pizza.cs">
+  <MonoDevelop.Ide.ItemProperties.MultiThreading FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultiThreading/Program.cs">
     <Files>
       <File FileName="Observer/Subject.cs" Line="8" Column="36" />
       <File FileName="Observer/WeatherData.cs" />
@@ -7,6 +8,7 @@
       <File FileName="Factory/SimpleFactory/PizzaStore.cs" />
       <File FileName="Factory/SimpleFactory/SimplePizzaFactory.cs" />
       <File FileName="Factory/SimpleFactory/Pizza.cs" Line="46" Column="26" />
+      <File FileName="MultiThreading/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,9 +16,10 @@
           <Node name="DesignPatterns" expanded="True">
             <Node name="Decorator" expanded="True" />
             <Node name="Factory" expanded="True">
-              <Node name="SimpleFactory" expanded="True">
-                <Node name="Pizza.cs" selected="True" />
-              </Node>
+              <Node name="SimpleFactory" expanded="True" />
+            </Node>
+            <Node name="MultiThreading" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
