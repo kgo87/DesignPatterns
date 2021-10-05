@@ -8,7 +8,7 @@ namespace Factory.SimpleFactory
     {
         public string Name { get; protected set; }
         public string Dough { get; protected set; }
-        public string Sause { get; protected set; }
+        public string Sauce { get; protected set; }
         public List<string> Toppings { get; protected set; } = new List<string>();
 
 
@@ -37,7 +37,7 @@ namespace Factory.SimpleFactory
             var result = new StringBuilder();
             result.AppendLine("---- " + Name + "----");
             result.AppendLine(Dough);
-            result.AppendLine(Sause);
+            result.AppendLine(Sauce);
             foreach (var item in Toppings)
             {
                 result.AppendLine(item);

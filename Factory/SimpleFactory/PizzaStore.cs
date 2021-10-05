@@ -10,6 +10,14 @@ namespace Factory.SimpleFactory
         }
         public Pizza OrderPizza(string type)
         {
+            Pizza pizza = _factory.CreatePizza(type);
+
+            pizza.Prepare();
+            pizza.Bake();
+            pizza.Cut();
+            pizza.Bake();
+
+            return pizza;
 
         }
     }
