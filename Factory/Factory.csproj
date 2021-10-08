@@ -7,11 +7,14 @@
 
   <ItemGroup>
     <None Remove="SimpleFactory\" />
+    <None Remove="FactoryMethod\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="SimpleFactory\" />
+    <Folder Include="FactoryMethod\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="SimpleFactory\SimpleFactory.csproj" />
+    <None Include="FactoryMethod\FactoryMethod.csproj" />
   </ItemGroup>
 </Project>
