@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "C1+BE3e/kzqVgGxjij8Ad5EtKiTEsjtF6vJdMm3UH9B6Q5hZMXmM/x9kxqPG+RvSbNqcB6u+ykQdWYMD1xph0g==",
+  "dgSpecHash": "AcSTaHZHBEMw3LnVaM8hrRwZ9PZhRy2FS4U2mh4fO2f1o9qa1gXzZxmV1nEh/yCQG2Un/sxqHaU5Kv6kBKPuEg==",
   "success": true,
   "projectFilePath": "/Users/katerinagomozova/Projects/DesignPatterns/Command/Command.csproj",
   "expectedPackageFiles": [],

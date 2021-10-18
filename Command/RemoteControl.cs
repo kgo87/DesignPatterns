@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Text;
+
 namespace Command
 {
     public class RemoteControl
@@ -28,6 +30,22 @@ namespace Command
         public void OnButtonWasPressed(int slot)
         {
             onCommands[slot].Execute();
+        }
+
+        public void OffButtonWasPushed(int slot)
+        {
+            offCommands[slot].Execute();
+        }
+
+        public string toString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Remote Control");
+            for (var i = 0; i < onCommands.Length; i++)
+            {
+                sb.AppendLine("slot " + i + " " + onCommands[i].ToString() + " " + offCommands[i].ToString());
+            }
+            return sb.ToString();
         }
     }
 }

@@ -6,6 +6,10 @@ namespace Command
         public Light light;
         public string state;
 
+        public Light(string room)
+        {
+        }
+
         public void on()
         {
             state = "on";
