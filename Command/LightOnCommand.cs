@@ -18,6 +18,7 @@ namespace Command
         public void Undo()
         {
             light.off();
+            Console.WriteLine("Light is off");
         }
     }
 }

@@ -31,6 +31,7 @@ namespace Command
             remoteControl.OnButtonWasPressed(0);
             remoteControl.OnButtonWasPressed(1);
             remoteControl.OnButtonWasPressed(2);
+            remoteControl.UndoButtonWasPushed();
             remoteControl.OffButtonWasPushed(1);
 
 

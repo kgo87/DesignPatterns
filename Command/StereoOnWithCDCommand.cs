@@ -21,6 +21,7 @@ namespace Command
         {
             stereo.setVolume(0);
             stereo.off();
+            Console.WriteLine("Stereo is off");
         }
     }
 }

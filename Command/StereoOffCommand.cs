@@ -19,6 +19,7 @@ namespace Command
         {
             stereo.on();
             stereo.setVolume(11);
+            Console.WriteLine("Stereo is back on");
         }
 
     }
