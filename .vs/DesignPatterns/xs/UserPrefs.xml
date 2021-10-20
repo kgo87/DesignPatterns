@@ -1,22 +1,23 @@
 ﻿<Properties StartupConfiguration="{C66B4067-BE2C-4669-9A9F-4C8011FAE84C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Command/Light.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Command/Program.cs">
     <Files>
       <File FileName="Observer/Subject.cs" Line="8" Column="36" />
       <File FileName="Observer/WeatherData.cs" />
-      <File FileName="Command/Program.cs" Line="10" Column="62" />
-      <File FileName="Command/LightOnCommand.cs" />
-      <File FileName="Command/RemoteControl.cs" Line="48" Column="34" />
-      <File FileName="Command/Stereo.cs" Line="48" Column="10" />
-      <File FileName="Command/StereoOnWithCDCommand.cs" Line="17" Column="34" />
-      <File FileName="Command/Light.cs" Line="1" Column="1" />
+      <File FileName="Command/Program.cs" Line="36" Column="61" />
+      <File FileName="Command/LightOnCommand.cs" Line="20" Column="25" />
+      <File FileName="Command/RemoteControl.cs" Line="48" Column="29" />
+      <File FileName="Command/Stereo.cs" Line="11" Column="34" />
+      <File FileName="Command/StereoOnWithCDCommand.cs" Line="23" Column="26" />
+      <File FileName="Command/Light.cs" Line="10" Column="10" />
+      <File FileName="Command/StereoOffCommand.cs" Line="21" Column="34" />
+      <File FileName="Command/LightOffCommand.cs" Line="20" Column="24" />
+      <File FileName="Command/Command.cs" Line="8" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPatterns" expanded="True">
-            <Node name="Command" expanded="True">
-              <Node name="Light.cs" selected="True" />
-            </Node>
+            <Node name="Command" expanded="True" selected="True" />
             <Node name="Factory" expanded="True" />
             <Node name="Singleton" expanded="True" />
           </Node>
@@ -37,5 +38,4 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Observer PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Command FirstBuild="True" />
 </Properties>

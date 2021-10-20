@@ -13,10 +13,12 @@ namespace Command
         public void on()
         {
             state = "on";
+            Console.WriteLine("Light is on");
         }
         public void off()
         {
             state = "off";
+            Console.WriteLine("Light is off");
         }
 
     }

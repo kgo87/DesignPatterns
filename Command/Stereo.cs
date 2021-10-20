@@ -15,11 +15,13 @@ namespace Command
         public void on()
         {
             state = "on";
+            Console.WriteLine("Stereo is on");
         }
 
         public void off()
         {
             state = "off";
+            Console.WriteLine("Stereo is off");
         }
 
         public void setSource(string musicSource)

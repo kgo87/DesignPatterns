@@ -1,0 +1,13 @@
+/Users/katerinagomozova/Projects/DesignPatterns/Command/bin/Debug/netcoreapp3.1/Command.deps.json
+/Users/katerinagomozova/Projects/DesignPatterns/Command/bin/Debug/netcoreapp3.1/Command.runtimeconfig.json
+/Users/katerinagomozova/Projects/DesignPatterns/Command/bin/Debug/netcoreapp3.1/Command.runtimeconfig.dev.json
+/Users/katerinagomozova/Projects/DesignPatterns/Command/bin/Debug/netcoreapp3.1/Command.dll
+/Users/katerinagomozova/Projects/DesignPatterns/Command/bin/Debug/netcoreapp3.1/Command.pdb
+/Users/katerinagomozova/Projects/DesignPatterns/Command/obj/Debug/netcoreapp3.1/Command.csproj.AssemblyReference.cache
+/Users/katerinagomozova/Projects/DesignPatterns/Command/obj/Debug/netcoreapp3.1/Command.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinagomozova/Projects/DesignPatterns/Command/obj/Debug/netcoreapp3.1/Command.AssemblyInfoInputs.cache
+/Users/katerinagomozova/Projects/DesignPatterns/Command/obj/Debug/netcoreapp3.1/Command.AssemblyInfo.cs
+/Users/katerinagomozova/Projects/DesignPatterns/Command/obj/Debug/netcoreapp3.1/Command.csproj.CoreCompileInputs.cache
+/Users/katerinagomozova/Projects/DesignPatterns/Command/obj/Debug/netcoreapp3.1/Command.dll
+/Users/katerinagomozova/Projects/DesignPatterns/Command/obj/Debug/netcoreapp3.1/Command.pdb
+/Users/katerinagomozova/Projects/DesignPatterns/Command/obj/Debug/netcoreapp3.1/Command.genruntimeconfig.cache

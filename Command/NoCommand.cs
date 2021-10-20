@@ -11,5 +11,10 @@ namespace Command
         {
             //do nothing;
         }
+
+        public void Undo()
+        {
+            //do nothing;
+        }
     }
 }

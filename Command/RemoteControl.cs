@@ -7,11 +7,13 @@ namespace Command
     {
         Command[] onCommands;
         Command[] offCommands;
+        Command undoCommand;
 
         public RemoteControl()
         {
             onCommands = new Command[7];
             offCommands = new Command[7];
+
             Command noCommand = new NoCommand();
 
             for (var i = 0; i < 7; i++)
@@ -19,6 +21,8 @@ namespace Command
                 onCommands[i] = noCommand;
                 offCommands[i] = noCommand;
             }
+
+            undoCommand = noCommand;
         }
 
         public void SetCommand(int slot, Command onCommand, Command offCommand)
@@ -30,11 +34,18 @@ namespace Command
         public void OnButtonWasPressed(int slot)
         {
             onCommands[slot].Execute();
+            undoCommand = onCommands[slot];
         }
 
         public void OffButtonWasPushed(int slot)
         {
             offCommands[slot].Execute();
+            undoCommand = offCommands[slot];
+        }
+
+        public void UndoButtonWasPushed()
+        {
+            undoCommand.Undo();
         }
 
         public string toString()
