@@ -11,6 +11,7 @@ namespace Command
             Light livingRoomLight = new Light("Living Room");
             Light kitchenLight = new Light("Kitchen");
             Stereo livingRoomStereo = new Stereo("Living Room");
+            CeilingFan ceilingFan = new CeilingFan("Living Room");
 
             LightOnCommand livingRoomLightOn = new LightOnCommand(livingRoomLight);
             LightOffCommand livingRoomLightOff = new LightOffCommand(livingRoomLight);
@@ -21,10 +22,15 @@ namespace Command
             StereoOnWithCDCommand stereoOnWithCD = new StereoOnWithCDCommand(livingRoomStereo);
             StereoOffCommand stereoOff = new StereoOffCommand(livingRoomStereo);
 
+            CeilingFanHighCommand ceilingFanHigh = new CeilingFanHighCommand(ceilingFan);
+            CeilingFanOffCommand ceilingFanOff = new CeilingFanOffCommand(ceilingFan);
+         
 
             remoteControl.SetCommand(0, livingRoomLightOn, livingRoomLightOff);
             remoteControl.SetCommand(1, kitchenLightOn, kitchenLightOff);
             remoteControl.SetCommand(2, stereoOnWithCD, stereoOff);
+            remoteControl.SetCommand(3, ceilingFanHigh, ceilingFanOff);
+
 
             Console.WriteLine(remoteControl.toString());
 
@@ -33,6 +39,7 @@ namespace Command
             remoteControl.OnButtonWasPressed(2);
             remoteControl.UndoButtonWasPushed();
             remoteControl.OffButtonWasPushed(1);
+            remoteControl.OffButtonWasPushed(3);
 
 
         }
