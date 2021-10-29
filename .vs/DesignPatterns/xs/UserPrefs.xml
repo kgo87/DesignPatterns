@@ -1,25 +1,24 @@
 ﻿<Properties StartupConfiguration="{C66B4067-BE2C-4669-9A9F-4C8011FAE84C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Command/CeilingFanOffCommand.cs">
+  <MonoDevelop.Ide.ItemProperties.Adapter FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Adapter/DuckAdapter.cs">
     <Files>
-      <File FileName="Command/Program.cs" Line="31" Column="55" />
+      <File FileName="Command/Program.cs" Line="32" Column="70" />
       <File FileName="Command/LightOnCommand.cs" Line="21" Column="44" />
-      <File FileName="Command/RemoteControl.cs" Line="48" Column="29" />
-      <File FileName="Command/Stereo.cs" Line="24" Column="45" />
-      <File FileName="Command/StereoOnWithCDCommand.cs" Line="24" Column="45" />
-      <File FileName="Command/Light.cs" Line="21" Column="44" />
-      <File FileName="Command/StereoOffCommand.cs" Line="22" Column="46" />
-      <File FileName="Command/LightOffCommand.cs" Line="21" Column="46" />
-      <File FileName="Command/Command.cs" Line="8" Column="28" />
-      <File FileName="Command/CeilingFan.cs" Line="45" Column="26" />
-      <File FileName="Command/CeilingFanHighCommand.cs" Line="36" Column="34" />
-      <File FileName="Command/CeilingFanOffCommand.cs" Line="4" Column="47" />
+      <File FileName="Command/RemoteControl.cs" Line="57" Column="73" />
+      <File FileName="Adapter/Program.cs" Line="14" Column="37" />
+      <File FileName="Adapter/Duck.cs" Line="6" Column="29" />
+      <File FileName="Adapter/MallardDuck.cs" Line="12" Column="46" />
+      <File FileName="Adapter/Turkey.cs" Line="8" Column="6" />
+      <File FileName="Adapter/WildTurkey.cs" Line="17" Column="50" />
+      <File FileName="Adapter/TurkeyAdapter.cs" Line="15" Column="26" />
+      <File FileName="Adapter/DuckAdapter.cs" Line="6" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPatterns" expanded="True">
-            <Node name="Command" expanded="True">
-              <Node name="CeilingFanOffCommand.cs" selected="True" />
+            <Node name="Adapter" expanded="True">
+              <Node name="DuckAdapter.cs" selected="True" />
             </Node>
           </Node>
         </State>
