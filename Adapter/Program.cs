@@ -11,16 +11,26 @@ namespace Adapter
 
             Duck turkeyAdapter = new TurkeyAdapter(turkey);
 
+            Turkey duckAdapter = new DuckAdapter(duck);
+
+            Console.WriteLine("\nTesting TurkeyAdapter...");
             testDuck(turkeyAdapter);
 
+            Console.WriteLine("\nTesting DuckAdapter...");
+            testTurkey(duckAdapter);
 
-            Console.WriteLine("Hello World!");
         }
 
         static void testDuck(Duck duck)
         {
             duck.Fly();
             duck.Quack();
+        }
+
+        static void testTurkey(Turkey turkey)
+        {
+            turkey.fly();
+            turkey.gobble();
         }
     }
 }

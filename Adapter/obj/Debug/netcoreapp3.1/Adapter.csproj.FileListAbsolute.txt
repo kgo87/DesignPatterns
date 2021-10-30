@@ -1,0 +1,13 @@
+/Users/katerinagomozova/Projects/DesignPatterns/Adapter/bin/Debug/netcoreapp3.1/Adapter.deps.json
+/Users/katerinagomozova/Projects/DesignPatterns/Adapter/bin/Debug/netcoreapp3.1/Adapter.runtimeconfig.json
+/Users/katerinagomozova/Projects/DesignPatterns/Adapter/bin/Debug/netcoreapp3.1/Adapter.runtimeconfig.dev.json
+/Users/katerinagomozova/Projects/DesignPatterns/Adapter/bin/Debug/netcoreapp3.1/Adapter.dll
+/Users/katerinagomozova/Projects/DesignPatterns/Adapter/bin/Debug/netcoreapp3.1/Adapter.pdb
+/Users/katerinagomozova/Projects/DesignPatterns/Adapter/obj/Debug/netcoreapp3.1/Adapter.csproj.AssemblyReference.cache
+/Users/katerinagomozova/Projects/DesignPatterns/Adapter/obj/Debug/netcoreapp3.1/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinagomozova/Projects/DesignPatterns/Adapter/obj/Debug/netcoreapp3.1/Adapter.AssemblyInfoInputs.cache
+/Users/katerinagomozova/Projects/DesignPatterns/Adapter/obj/Debug/netcoreapp3.1/Adapter.AssemblyInfo.cs
+/Users/katerinagomozova/Projects/DesignPatterns/Adapter/obj/Debug/netcoreapp3.1/Adapter.csproj.CoreCompileInputs.cache
+/Users/katerinagomozova/Projects/DesignPatterns/Adapter/obj/Debug/netcoreapp3.1/Adapter.dll
+/Users/katerinagomozova/Projects/DesignPatterns/Adapter/obj/Debug/netcoreapp3.1/Adapter.pdb
+/Users/katerinagomozova/Projects/DesignPatterns/Adapter/obj/Debug/netcoreapp3.1/Adapter.genruntimeconfig.cache

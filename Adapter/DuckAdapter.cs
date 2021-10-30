@@ -4,8 +4,9 @@ namespace Adapter
     public class DuckAdapter: Turkey
     {
         Duck duck;
-        public DuckAdapter()
+        public DuckAdapter(Duck duck)
         {
+            this.duck = duck;
         }
 
         public void fly()
