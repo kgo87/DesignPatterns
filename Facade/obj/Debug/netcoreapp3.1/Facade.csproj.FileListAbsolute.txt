@@ -1,0 +1,13 @@
+/Users/katerinagomozova/Projects/DesignPatterns/Facade/obj/Debug/netcoreapp3.1/Facade.csproj.AssemblyReference.cache
+/Users/katerinagomozova/Projects/DesignPatterns/Facade/obj/Debug/netcoreapp3.1/Facade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinagomozova/Projects/DesignPatterns/Facade/obj/Debug/netcoreapp3.1/Facade.AssemblyInfoInputs.cache
+/Users/katerinagomozova/Projects/DesignPatterns/Facade/obj/Debug/netcoreapp3.1/Facade.AssemblyInfo.cs
+/Users/katerinagomozova/Projects/DesignPatterns/Facade/obj/Debug/netcoreapp3.1/Facade.csproj.CoreCompileInputs.cache
+/Users/katerinagomozova/Projects/DesignPatterns/Facade/bin/Debug/netcoreapp3.1/Facade.deps.json
+/Users/katerinagomozova/Projects/DesignPatterns/Facade/bin/Debug/netcoreapp3.1/Facade.runtimeconfig.json
+/Users/katerinagomozova/Projects/DesignPatterns/Facade/bin/Debug/netcoreapp3.1/Facade.runtimeconfig.dev.json
+/Users/katerinagomozova/Projects/DesignPatterns/Facade/bin/Debug/netcoreapp3.1/Facade.dll
+/Users/katerinagomozova/Projects/DesignPatterns/Facade/bin/Debug/netcoreapp3.1/Facade.pdb
+/Users/katerinagomozova/Projects/DesignPatterns/Facade/obj/Debug/netcoreapp3.1/Facade.dll
+/Users/katerinagomozova/Projects/DesignPatterns/Facade/obj/Debug/netcoreapp3.1/Facade.pdb
+/Users/katerinagomozova/Projects/DesignPatterns/Facade/obj/Debug/netcoreapp3.1/Facade.genruntimeconfig.cache

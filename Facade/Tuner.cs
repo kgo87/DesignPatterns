@@ -24,7 +24,7 @@ namespace Facade
 
         public void SetFrequency(double frequency)
         {
-            Console.WriteLine($"{_description} setting frequency to {frequency.ToString(CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"{_description} setting frequency to {frequency.ToString()}");
             _frequency = frequency;
         }
 
