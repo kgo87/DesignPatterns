@@ -1,23 +1,20 @@
 ﻿<Properties StartupConfiguration="{C66B4067-BE2C-4669-9A9F-4C8011FAE84C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Facade/HomeTheaterFacade.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Template/Coffee.cs">
     <Files>
-      <File FileName="Command/Program.cs" Line="32" Column="70" />
-      <File FileName="Command/LightOnCommand.cs" />
       <File FileName="Command/RemoteControl.cs" />
-      <File FileName="Facade/Program.cs" />
-      <File FileName="Facade/Amplifier.cs" />
-      <File FileName="Facade/Tuner.cs" />
-      <File FileName="Facade/DvdPlayer.cs" />
-      <File FileName="Facade/Projector.cs" />
-      <File FileName="Facade/TheaterLights.cs" Line="35" Column="1" />
-      <File FileName="Facade/HomeTheaterFacade.cs" Line="1" Column="1" />
+      <File FileName="Facade/Program.cs" Line="20" Column="50" />
+      <File FileName="Template/Program.cs" Line="1" Column="1" />
+      <File FileName="Template/CaffeineDrink.cs" Line="17" Column="1" />
+      <File FileName="Template/EmptyClass.cs" Line="17" Column="47" />
+      <File FileName="Template/Coffee.cs" Line="4" Column="39" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPatterns" expanded="True">
-            <Node name="Facade" expanded="True">
-              <Node name="HomeTheaterFacade.cs" selected="True" />
+            <Node name="Facade" expanded="True" />
+            <Node name="Template" expanded="True">
+              <Node name="Coffee.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -30,8 +27,8 @@
   <DisabledProjects>
     <String>DuckSimulator/DuckSimulator.csproj</String>
   </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.Template FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Facade FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Strategy FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
