@@ -1,0 +1,13 @@
+/Users/katerinagomozova/Projects/DesignPatterns/Iterator/obj/Debug/netcoreapp3.1/Iterator.csproj.AssemblyReference.cache
+/Users/katerinagomozova/Projects/DesignPatterns/Iterator/obj/Debug/netcoreapp3.1/Iterator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinagomozova/Projects/DesignPatterns/Iterator/obj/Debug/netcoreapp3.1/Iterator.AssemblyInfoInputs.cache
+/Users/katerinagomozova/Projects/DesignPatterns/Iterator/obj/Debug/netcoreapp3.1/Iterator.AssemblyInfo.cs
+/Users/katerinagomozova/Projects/DesignPatterns/Iterator/obj/Debug/netcoreapp3.1/Iterator.csproj.CoreCompileInputs.cache
+/Users/katerinagomozova/Projects/DesignPatterns/Iterator/bin/Debug/netcoreapp3.1/Iterator.deps.json
+/Users/katerinagomozova/Projects/DesignPatterns/Iterator/bin/Debug/netcoreapp3.1/Iterator.runtimeconfig.json
+/Users/katerinagomozova/Projects/DesignPatterns/Iterator/bin/Debug/netcoreapp3.1/Iterator.runtimeconfig.dev.json
+/Users/katerinagomozova/Projects/DesignPatterns/Iterator/bin/Debug/netcoreapp3.1/Iterator.dll
+/Users/katerinagomozova/Projects/DesignPatterns/Iterator/bin/Debug/netcoreapp3.1/Iterator.pdb
+/Users/katerinagomozova/Projects/DesignPatterns/Iterator/obj/Debug/netcoreapp3.1/Iterator.dll
+/Users/katerinagomozova/Projects/DesignPatterns/Iterator/obj/Debug/netcoreapp3.1/Iterator.pdb
+/Users/katerinagomozova/Projects/DesignPatterns/Iterator/obj/Debug/netcoreapp3.1/Iterator.genruntimeconfig.cache
