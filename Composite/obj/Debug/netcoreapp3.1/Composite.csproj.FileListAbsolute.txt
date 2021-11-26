@@ -1,0 +1,13 @@
+/Users/katerinagomozova/Projects/DesignPatterns/Composite/bin/Debug/netcoreapp3.1/Composite.deps.json
+/Users/katerinagomozova/Projects/DesignPatterns/Composite/bin/Debug/netcoreapp3.1/Composite.runtimeconfig.json
+/Users/katerinagomozova/Projects/DesignPatterns/Composite/bin/Debug/netcoreapp3.1/Composite.runtimeconfig.dev.json
+/Users/katerinagomozova/Projects/DesignPatterns/Composite/bin/Debug/netcoreapp3.1/Composite.dll
+/Users/katerinagomozova/Projects/DesignPatterns/Composite/bin/Debug/netcoreapp3.1/Composite.pdb
+/Users/katerinagomozova/Projects/DesignPatterns/Composite/obj/Debug/netcoreapp3.1/Composite.csproj.AssemblyReference.cache
+/Users/katerinagomozova/Projects/DesignPatterns/Composite/obj/Debug/netcoreapp3.1/Composite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katerinagomozova/Projects/DesignPatterns/Composite/obj/Debug/netcoreapp3.1/Composite.AssemblyInfoInputs.cache
+/Users/katerinagomozova/Projects/DesignPatterns/Composite/obj/Debug/netcoreapp3.1/Composite.AssemblyInfo.cs
+/Users/katerinagomozova/Projects/DesignPatterns/Composite/obj/Debug/netcoreapp3.1/Composite.csproj.CoreCompileInputs.cache
+/Users/katerinagomozova/Projects/DesignPatterns/Composite/obj/Debug/netcoreapp3.1/Composite.dll
+/Users/katerinagomozova/Projects/DesignPatterns/Composite/obj/Debug/netcoreapp3.1/Composite.pdb
+/Users/katerinagomozova/Projects/DesignPatterns/Composite/obj/Debug/netcoreapp3.1/Composite.genruntimeconfig.cache
